@@ -6,16 +6,7 @@
 @import url(//fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic);
 @import url(//fonts.googleapis.com/css?family=Montserrat:700,400);
 
-  @font-face {
-      font-family: 'beth_ellenregular';
-      src: url('bethellen-webfont.woff2') format('woff2'),
-           url('bethellen-webfont.woff') format('woff'),
-           url('myfont.ttf') format('truetype');
 
-      font-weight: normal;
-      font-style: normal;
-
-  }
 
 
 /*------------------------------------------------------------------
