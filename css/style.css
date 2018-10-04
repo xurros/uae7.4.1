@@ -4243,7 +4243,7 @@ a.logo:hover{
 .footer-made .serif{
     font-size: 16px;
     font-weight: 400;
-    color: #18121E;
+    color: #D7CEC7;
     text-transform: none;
 }
 .footer-social-links{
@@ -5614,6 +5614,6 @@ line-height: 1em;
 
 ul.breadcrumb li+li:before {
 padding: 8px;
-color: #18121E;
+color: #D7CEC7;
 content: "/\00a0";
 }
